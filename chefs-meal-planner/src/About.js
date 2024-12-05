@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; // Test comment
 import AboutComponent from './About/Components/AboutComponent.jsx';
 import './Style/about.css';
 /**

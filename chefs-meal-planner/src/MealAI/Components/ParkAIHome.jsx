@@ -21,9 +21,9 @@ const ParkAIHome = () => {
     const [cuisine, setCuisine] = useState('');
     const [otherOptions, setOtherOptions] = useState('');
 
-    useEffect(() => {
-        fetchRecipe();
-    }, []);
+    //useEffect(() => {
+    //    fetchRecipe();
+    //}, []);
 
     const fetchRecipe = async () => {
         setIsLoading(true);

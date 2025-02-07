@@ -1,5 +1,5 @@
 # Meal Prep App
-This is an app that generates new recipes.  Users can save recipes they want to try.  Then, they can select recipes to get instructions as well as a custom shopping list. 
+This is an app that generates new, random food recipes.  Users can save recipes that they want to try.  Then, they can select recipes to get instructions as well as a custom shopping list. 
 
 
 ## Home

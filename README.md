@@ -1,22 +1,22 @@
 # Meal Prep App
 This is an app that generates new recipes.  Users can save recipes they want to try.  Then, they can select recipes to get instructions as well as a custom shopping list. 
 
-![MealPrepLogo](https://github.com/user-attachments/assets/96a874b3-763e-42e8-b5d2-14f36909df07)
-
 
 ## Home
-The home page containt a button get new recipe ideas. When pressed a new recipe is generated.
+The home page contains a button get new recipe ideas. When pressed, a new recipe is generated.
 ## About
-The about page gives a description of the app as well as who the app is inteneded for and some testomonials.
+The about page gives a description of the app, as well as who the app is inteneded for with some testomonials.
 ## Meal Plan
-The meal plan page display all the current recipes stored in users database.  The user can select the recipes they want for the week and then Checkout when they're ready to produce their shopping list.
+The meal plan page displays all the current recipes stored in the user's database.  The user can select the recipes they want for the week and then "Checkout" when they're ready to produce their shopping list.
 ## Checkout
-This page generates a custome shopping list based on the users selection.
+This page generates a custom shopping list based on the user's selection.
 
 # How to run
 To see the current deployment, click [Here](https://my-secret-recipes.netlify.app/).
 
 To run on your local machine, go to the [How to Build](#how-to-build): 
+
+***NOTE: Please go to the main repository if you would like to build this locally. This repository only contains the frontend of the application.***
 
 # How to contribute
 Follow this project board to know the latest status of the project: (https://github.com/orgs/cis3296f24/projects/114) 
